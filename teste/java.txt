@@ -1,0 +1,51 @@
+
+
+THE JAVA PROGRAMMING LANGUAGE
+
+
+Java is a general-purpose computer programming language that is
+concurrent, class-based, object-oriented, and specifically
+designed to have as few implementation dependencies as possible.
+
+One design goal of Java is portability, which means that programs
+written for the Java platform must run similarly on any combination
+of hardware and operating system with adequate runtime support.
+This is achieved by compiling the Java language code to an
+intermediate representation called Java bytecode, instead of
+directly to architecture-specific machine code. Java bytecode
+instructions are analogous to machine code, but they are intended
+to be executed by a virtual machine (VM) written specifically for
+the host hardware. End users commonly use a Java Runtime Environment
+(JRE) installed on their own machine for standalone Java
+applications, or in a web browser for Java applets.
+
+Standard libraries provide a generic way to access host-specific
+features such as graphics, threading, and networking.
+
+The use of universal bytecode makes porting simple. However, the
+overhead of interpreting bytecode into machine instructions made
+interpreted programs almost always run more slowly than native
+executables. Just-in-time (JIT) compilers that compile bytecodes to
+machine code during runtime were introduced from an early stage.
+Oracle Corporation is the current owner of the official
+implementation of the Java SE platform, following their acquisition
+of Sun Microsystems on January 27, 2010. This implementation is
+based on the original implementation of Java by Sun. The Oracle
+implementation is available for Microsoft Windows (still works for
+XP, while only later versions currently officially supported),
+macOS, Linux, and Solaris. Because Java lacks any formal
+standardization recognized by Ecma International, ISO/IEC, ANSI, or
+other third-party standards organization, the Oracle implementation
+is the de facto standard.
+
+The Oracle implementation is packaged into two different
+distributions: The Java Runtime Environment (JRE) which contains
+the parts of the Java SE platform required to run Java programs and
+is intended for end users, and the Java Development Kit (JDK),
+which is intended for software developers and includes development
+tools such as the Java compiler, Javadoc, Jar, and a debugger.
+
+OpenJDK is another notable Java SE implementation that is licensed
+under the GNU GPL. The implementation started when Sun began
+releasing the Java source code under the GPL. As of Java SE 7,
+OpenJDK is the official Java reference implementation.
