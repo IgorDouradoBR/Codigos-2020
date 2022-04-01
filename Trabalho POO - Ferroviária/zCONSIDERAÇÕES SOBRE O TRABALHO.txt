@@ -1,0 +1,11 @@
+Professor, algumas considerações:
+-O trabalho foi desenvolvido com base naquele no código do Pedro Cardoso que tá disponível no moodle que foi feito em aula, então no códigos tem 
+algumas questões de Package, mas creio que nao será problema
+-os 2 primeiros arquivos de texto aqui dessas pasta é de onde eu fiz o "load" de quais locomotivas e vagoes haviam
+-já os outros 3 sequentes aí é do final do programa já, foi o que eu entendi da seguinte parte do enunciado do trabalho:
+	5   Fim
+•	Encerra o programa atualizando as informações relativas as composições, vagões e locomotivas nos arquivos texto.
+Ou seja, eu interpretei como gerar arquivos texto no final do programa contendo quais composições foram feitas durante o programa, e quais vagões e locomotivas ainda
+estavam disponíveis com o final de todo o programa. Apesar dos arquivos ja estarem preenchidos inicialmente, todo final de programa eles são atualizados com essas
+ respectivas informações que foram desenvolvidas com a nova execuçao do programa, ou seja, a cada execução do código, esses arquivos tbm se atualizavam, foi o que eu
+entendi desse item 5

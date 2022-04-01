@@ -1,0 +1,11 @@
+Código do vagão:  20001 Peso maximo suportado: 10
+Código do vagão:  20002 Peso maximo suportado: 20
+Código do vagão:  20003 Peso maximo suportado: 10
+Código do vagão:  20006 Peso maximo suportado: 30
+Código do vagão:  20007 Peso maximo suportado: 40
+Código do vagão:  20008 Peso maximo suportado: 10
+Código do vagão:  20009 Peso maximo suportado: 45
+Código do vagão:  20004 Peso maximo suportado: 10
+Código do vagão:  20005 Peso maximo suportado: 20
+Código do vagão:  20010 Peso maximo suportado: 65
+

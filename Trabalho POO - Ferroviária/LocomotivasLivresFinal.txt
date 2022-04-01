@@ -1,0 +1,4 @@
+Código da locomotiva: 10006 Peso Máximo: 2800.0 Numero de Vagoes suportados: 60
+Código da locomotiva: 10004 Peso Máximo: 6030.0 Numero de Vagoes suportados: 60
+Código da locomotiva: 10002 Peso Máximo: 6050.0 Numero de Vagoes suportados: 40
+
