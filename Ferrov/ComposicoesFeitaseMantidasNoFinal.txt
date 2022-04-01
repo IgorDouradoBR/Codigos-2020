@@ -1,0 +1,8 @@
+
+Código da composição: 40001
+Locomotiva Codigo: 10001  Peso maximo levado: 5000.0  Numero de vagoes max: 50
+
+Código da composição: 40003
+Locomotiva Codigo: 10003  Peso maximo levado: 4020.0  Numero de vagoes max: 70
+Locomotiva Codigo: 10005  Peso maximo levado: 2300.0  Numero de vagoes max: 30
+
